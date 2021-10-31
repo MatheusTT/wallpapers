@@ -10,7 +10,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 ## **Authors**
 
-<details open>
+<details>
 <summary>Alena Aenami</summary>
 
 - [ArtStation](https://www.artstation.com/aenamiart)
@@ -49,9 +49,9 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
     </details>
 </details>
-</br>
 
-<details open>
+
+<details>
 <summary>Artem Shashkin</summary>
 
 - [ArtStation](https://artyom.artstation.com/)
@@ -70,9 +70,42 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
     </details>
 </details>
-</br>
 
-<details open>
+
+<details>
+<summary>Gleb Kozenko</summary>
+
+- [Unsplash](https://unsplash.com/@glebson)
+- [Instagram](https://www.instagram.com/gleb.kozenko/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://unsplash.com/photos/1v-snxcyHHk">
+      <img src="./ocean-waves-(4K).jpg" title="aerial photography of ocean waves" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Digital Frontiers</summary>
+
+- [ArtStation](https://digitalfrontiers.artstation.com/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.artstation.com/artwork/gb3BK">
+      <img src="./cursed-forest-(FHD).jpg" title="The Cursed Forest" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
 <summary>Dracula Theme</summary>
 
 - [Dracula site](https://draculatheme.com/)
@@ -86,11 +119,58 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     </a>
 
     </details>
-
 </details>
-</br>
 
-<details open>
+
+<details>
+<summary>alvaroserpa</summary>
+
+- [DeviantArt](https://www.deviantart.com/alvaroserpa)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.deviantart.com/alvaroserpa/art/loneliness-894844696">
+      <img src="./loneliness-(4K).jpg" title="loneliness" width=600/>
+    </a>
+
+    </details>
+</details>
+
+<details>
+<summary>Monster Du</summary>
+
+- [ArtStation](https://dumonster.artstation.com/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.artstation.com/artwork/v2N1A6">
+      <img src="./marshland-(FHD).jpg" title="Marshland" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Mike Yukhtenko</summary>
+
+- [Unsplash](https://unsplash.com/@yamaicle)
+- [Instagram](https://www.instagram.com/ya.maicle/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://unsplash.com/photos/a2kD4b0KK4s">
+      <img src="./dark-grey-mountain-(FHD).jpg" title="desert at night" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
 <summary>Daniel Leone</summary>
 
 - [His website](https://danielleone.com/)
