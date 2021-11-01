@@ -171,6 +171,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Gabriela Wasiewicz</summary>
+
+- [ArtStation](https://glla.artstation.com/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.artstation.com/artwork/XnGx8L">
+      <img src="./koi-moon-(4K).jpg" title="Spirit World" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
 <summary>Daniel Leone</summary>
 
 - [His website](https://danielleone.com/)
