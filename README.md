@@ -52,6 +52,64 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>BisBiswas</summary>
+
+- [ArtStation](https://imbis.artstation.com/)
+- [DeviantArt](https://www.deviantart.com/bisbiswas)
+- [Instagram](https://www.instagram.com/hereisbis/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.artstation.com/artwork/Le5rER">
+      <img src="./here-comes-mr-pumpkin-(FHD).jpg" title="Here Comes Mr. Pumpkin" width=600/>
+    </a>
+
+    <a href="https://www.artstation.com/artwork/AqPGYq">
+      <img src="./dreamy-night-(FHD).jpg" title="Dreamy Night" width=600/>
+    </a>
+
+    <a href="https://www.deviantart.com/bisbiswas/art/Together-Alone-882985197">
+      <img src="./together-alone-(FHD).jpg" title="Together Alone" width=600/>
+    </a>
+
+    <a href="https://www.deviantart.com/bisbiswas/art/Wayward-Clouds-893359947">
+      <img src="./wayward-clouds-(FHD).jpg" title="Wayward Clouds" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Tyler Smith</summary>
+
+- [ArtStation](https://tsmith3d.artstation.com/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.artstation.com/artwork/YeEJ86">
+      <img src="./blue-lagoon-(4K).jpg" title="Blue Lagoon" width=600/>
+    </a>
+
+    <a href="https://www.artstation.com/artwork/284RKy">
+      <img src="ancient-temple-valley-(4K).jpg" title="Ancient Temple Valley" width=600/>
+    </a>
+
+    <a href="https://www.artstation.com/artwork/eaW1yZ">
+      <img src="./bird-statue-on-mountain-(4K).jpg" title="Bird Statue on a Mountain Top" width=600/>
+    </a>
+
+    <a href="https://www.artstation.com/artwork/nYrvkO">
+      <img src="pink-temple-in-forest-(4K).jpg" title="Pink Temple in Forest" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
 <summary>Artem Shashkin</summary>
 
 - [ArtStation](https://artyom.artstation.com/)
@@ -197,6 +255,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     
     <a href="https://unsplash.com/photos/g30P1zcOzXo">
       <img src="./snowy-mountain-photo-(4K).jpg" title="snowy mountain" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Dynamo2205</summary>
+
+- [Reddit](https://www.reddit.com/user/Dynamo2205/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.reddit.com/r/wallpaper/comments/ql4fk4/3840x2160_oc_cubes/">
+      <img src="./cubes-(4K).jpg" title="Cubes" width=600/>
     </a>
 
     </details>
