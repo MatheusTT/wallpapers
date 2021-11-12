@@ -262,6 +262,58 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Cátia Matos</summary>
+
+- [Pexels](https://www.pexels.com/@catiamatos)
+- [Darkroom](https://catiamatos.darkroom.tech/)
+- [Instagram](https://www.instagram.com/catia.matos/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.pexels.com/photo/green-leaves-1072179/">
+      <img src="./green-leaves-(4K).jpg" title="Green Leaves" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Troy Qian</summary>
+
+- [Unsplash](https://unsplash.com/@troyqian)
+- [Instagram](https://instagram.com/ycq_troy)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://unsplash.com/photos/AHC2GEyBQFc">
+      <img src="./chalet-in-the-snow-(4K).jpg" title="Chalet in the snow" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Elias Tigiser</summary>
+
+- [Pexels](https://www.pexels.com/@elias-tigiser-411757)
+- [Instagram](https://www.instagram.com/elias_tigiser/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.pexels.com/photo/photo-of-fern-plants-2757549/">
+      <img src="./mystic-ferns-(4K).jpg" title="Photo of Fern Plants" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
 <summary>Dynamo2205</summary>
 
 - [Reddit](https://www.reddit.com/user/Dynamo2205/)
@@ -271,6 +323,37 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     
     <a href="https://www.reddit.com/r/wallpaper/comments/ql4fk4/3840x2160_oc_cubes/">
       <img src="./cubes-(4K).jpg" title="Cubes" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>ChingP</summary>
+
+- [Reddit](https://www.reddit.com/user/ChingP/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.reddit.com/r/japanpics/comments/6ac3zq/gion_after_rain_oc4751x3167/">
+      <img src="./rain-on-alley-(4K).jpg" title="Gion after rain" width=600/>
+    </a>
+
+    </details>
+</details>
+
+<details>
+<summary>CUtePOiSOn77</summary>
+
+- [Reddit](https://www.reddit.com/user/CUtePOiSOn77/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.reddit.com/r/glitch_art/comments/mv1hzu/skull_oc/">
+      <img src="./skull-(4K).jpg" title="Skull" width=600/>
     </a>
 
     </details>
