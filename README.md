@@ -47,6 +47,10 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
       <img src="./eclipse-(FHD).jpg" title="Eclipse" width=600/>
     </a>
 
+    <a href="https://www.deviantart.com/aenami/art/Northern-Lights-685148797">
+      <img src="./northern-lights-(FHD).jpg" title="Northern Lights" width=600/>
+    </a>
+
     </details>
 </details>
 
@@ -103,6 +107,31 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
     <a href="https://www.artstation.com/artwork/nYrvkO">
       <img src="pink-temple-in-forest-(4K).jpg" title="Pink Temple in Forest" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>rmRadev</summary>
+
+- [DeviantArt](https://www.deviantart.com/rmradev)
+- [Instagram](https://www.instagram.com/rmradev/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.deviantart.com/rmradev/art/Moon-sunset-landscape-825321054">
+      <img src="./saturn-(custom).jpg" title="Moon sunset landscape" width=600/>
+    </a>
+
+    <a href="https://www.deviantart.com/rmradev/art/Tranquility-852697412">
+      <img src="./tranquility-(custom).jpg" title="Tranquility" width=600/>
+    </a>
+
+    <a href="https://www.deviantart.com/rmradev/art/Vampire-castle-commission-870198182">
+      <img src="./vampire-castle-(FHD).jpg" title="Vampire castle commission" width=600/>
     </a>
 
     </details>
@@ -344,6 +373,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     </details>
 </details>
 
+
+<details>
+<summary>irbChad</summary>
+
+- [Reddit](https://www.reddit.com/user/irbChad/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.reddit.com/r/wallpapers/comments/868o8h/made_some_sea_of_thieves_wallpapers_single_and/">
+      <img src="./sea-of-thieves-(FHD).jpg" title="Made some Sea of Thieves wallpapers" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
 <details>
 <summary>CUtePOiSOn77</summary>
 
@@ -359,5 +405,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     </details>
 </details>
 </br>
+
+
 
 *(I will be searching for the missing authors)*
