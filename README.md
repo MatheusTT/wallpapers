@@ -160,6 +160,26 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Marser</summary>
+
+- [flickr](https://www.flickr.com/photos/marser/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.flickr.com/photos/marser/3746392026/in/photostream/">
+      <img src="./shape-of-happiness-(custom).jpg" title="shape of happiness" width=600/>
+    </a>
+
+    <a href="https://www.flickr.com/photos/marser/30386293873/">
+      <img src="./autumn-foliage-(4K).jpg" title="momiji '16 - autumn foliage" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
 <summary>Gleb Kozenko</summary>
 
 - [Unsplash](https://unsplash.com/@glebson)
@@ -336,6 +356,56 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     
     <a href="https://www.pexels.com/photo/photo-of-fern-plants-2757549/">
       <img src="./mystic-ferns-(4K).jpg" title="Photo of Fern Plants" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Dylan Furst</summary>
+
+- [500px](https://500px.com/p/fursty?view=photos)
+- [Instagram](https://www.instagram.com/fursty/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://500px.com/photo/126434873/Down-Into-The-Fog-by-Dylan-Furst/">
+      <img src="./down-into-the-fog-(QHD).jpg" title="Down Into The Fog" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Aaron Alvarado</summary>
+
+- [Unsplash](https://unsplash.com/@aaronalvaradome)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://unsplash.com/photos/OZSNnAU5RPk">
+      <img src="./forest-path-(QHD).jpg" title="black metal bridge near trees" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Joshua Newton</summary>
+
+- [Unsplash](https://unsplash.com/@joshuanewton)
+- [Instagram](https://www.instagram.com/momentsbyjosh/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://unsplash.com/photos/LxQe7xNGHJA">
+      <img src="./house-in-the-jungle-(4K).jpg" title="landscape photography of brown house surrounded by green leafed trees during daytime" width=600/>
     </a>
 
     </details>
