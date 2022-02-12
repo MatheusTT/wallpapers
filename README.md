@@ -51,6 +51,14 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
       <img src="./northern-lights-(FHD).jpg" title="Northern Lights" width=600/>
     </a>
 
+    <a href="https://www.artstation.com/artwork/4Xa124">
+      <img src="./stardust-(FHD).jpg" title="Stardust" width=600/>
+    </a>
+
+    <a href="https://www.artstation.com/artwork/r9lEY2">
+      <img src="./escape-(FHD).jpg" title="Escape" width=600/>
+    </a>
+
     </details>
 </details>
 
@@ -173,6 +181,114 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
     <a href="https://www.flickr.com/photos/marser/30386293873/">
       <img src="./autumn-foliage-(4K).jpg" title="momiji '16 - autumn foliage" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Johannes Hulsch</summary>
+
+- [His website](https://johanneshulsch.de/)
+- [flickr](https://www.flickr.com/photos/95951531@N05/)
+- [500px](https://500px.com/p/bokehm0n?view=photos)
+- [Instagram](https://www.instagram.com/bokehm0n/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.flickr.com/photos/95951531@N05/39714562674/">
+      <img src="./canyons-of-iceland-(custom).jpg" title="Canyons of Iceland" width=600/>
+    </a>
+
+    <a href="https://www.flickr.com/photos/95951531@N05/24943300409/">
+      <img src="./snowy-bridge-(custom).jpg" title="Across the bridge" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Pixabay</summary>
+
+- [Pixabay](https://pixabay.com/)
+- [Pexels](https://www.pexels.com/@pixabay)
+- [Instagram](https://www.instagram.com/pixabay/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.pexels.com/photo/selective-focus-photography-of-turned-on-black-metal-framed-light-sconce-414144/">
+      <img src="./morning-lantern-(custom).jpg" title="Selective Focus Photography of Turne" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Andrew Coelho</summary>
+
+- [Unsplash](https://unsplash.com/@andrewcoelho)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://unsplash.com/photos/aL7SA1ASVdQ">
+      <img src="./pine-forest-(4K).jpg" title="Lush green pine forest" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Pok Rie</summary>
+
+- [Pexels](https://www.pexels.com/@pok-rie-33563)
+- [Instagram](https://www.instagram.com/pok_rie/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.pexels.com/photo/brown-boat-dock-140140/">
+      <img src="./brown-boat-dock-(custom).jpg" title="Brown Boat Dock" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Taras Makarenko</summary>
+
+- [Pexels](https://www.pexels.com/@taras-makarenko-188506)
+- [Instagram](https://instagram.com/gotocalifornia/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.pexels.com/photo/timelapse-photography-of-lake-593185/">
+      <img src="./lake-timelapse-(custom).jpg" title="Timelapse Photography of Lake" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Bogomil Mihaylov</summary>
+
+- [Unsplash](https://unsplash.com/@bogomi)
+- [Instagram](https://instagram.com/ojobojo)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://unsplash.com/photos/RONnMobq0_Y">
+      <img src="./white-wall-(custom).jpg" title="white wall photo" width=600/>
     </a>
 
     </details>
@@ -406,6 +522,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     
     <a href="https://unsplash.com/photos/LxQe7xNGHJA">
       <img src="./house-in-the-jungle-(4K).jpg" title="landscape photography of brown house surrounded by green leafed trees during daytime" width=600/>
+    </a>
+
+    </details>
+</details>
+
+
+<details>
+<summary>Johannes Plenio</summary>
+
+- [His website](http://www.coolfreepix.com/)
+- [Pexels](https://www.pexels.com/@jplenio)
+- [Instagram](https://www.instagram.com/jplenio/)
+
+    <details>
+    <summary>Wallpapers</summary>
+    
+    <a href="https://www.pexels.com/photo/photo-of-forest-during-fall-1996042/">
+      <img src="./mystical-forest-(FHD).jpg" title="Photo of Forest During Fall" width=600/>
     </a>
 
     </details>
