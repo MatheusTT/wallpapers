@@ -20,43 +20,43 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
 
     <a href="https://www.artstation.com/artwork/259YY">
-      <img src="./colourful-traffic-lights-(FHD).jpg" title="7 p.m." width="600"/>
+      <img src="./authors/Alena Aenami/colourful-traffic-lights-(FHD).jpg" title="7 p.m." width="600"/>
     </a>
 
     <a href="https://www.artstation.com/artwork/4bX4eY">
-      <img src="./endless-(FHD).jpg" title="Endless" width=600/>
+      <img src="./authors/Alena Aenami/endless-(FHD).jpg" title="Endless" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/9eKmBN">
-      <img src="./eternity-(FHD).jpg" title="Eternity" width=600/>
+      <img src="./authors/Alena Aenami/eternity-(FHD).jpg" title="Eternity" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/w8yDNV">
-      <img src="./horizon-(FHD).jpg" title="Horizon" width=600/>
+      <img src="./authors/Alena Aenami/horizon-(FHD).jpg" title="Horizon" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/xNebE">
-      <img src="./lighthouse-(FHD).jpg" title="Guiding Light" width=600/>
+      <img src="./authors/Alena Aenami/lighthouse-(FHD).jpg" title="Guiding Light" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/J91ZxD">
-      <img src="./lost-(FHD).jpg" title="Lost In Between" width=600/>
+      <img src="./authors/Alena Aenami/lost-(FHD).jpg" title="Lost In Between" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/LyG3K">
-      <img src="./eclipse-(FHD).jpg" title="Eclipse" width=600/>
+      <img src="./authors/Alena Aenami/eclipse-(FHD).jpg" title="Eclipse" width=600/>
     </a>
 
     <a href="https://www.deviantart.com/aenami/art/Northern-Lights-685148797">
-      <img src="./northern-lights-(FHD).jpg" title="Northern Lights" width=600/>
+      <img src="./authors/Alena Aenami/northern-lights-(FHD).jpg" title="Northern Lights" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/4Xa124">
-      <img src="./stardust-(FHD).jpg" title="Stardust" width=600/>
+      <img src="./authors/Alena Aenami/stardust-(FHD).jpg" title="Stardust" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/r9lEY2">
-      <img src="./escape-(FHD).jpg" title="Escape" width=600/>
+      <img src="./authors/Alena Aenami/escape-(FHD).jpg" title="Escape" width=600/>
     </a>
 
     </details>
@@ -74,19 +74,19 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.artstation.com/artwork/Le5rER">
-      <img src="./here-comes-mr-pumpkin-(FHD).jpg" title="Here Comes Mr. Pumpkin" width=600/>
+      <img src="./authors/BisBiswas/here-comes-mr-pumpkin-(FHD).jpg" title="Here Comes Mr. Pumpkin" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/AqPGYq">
-      <img src="./dreamy-night-(FHD).jpg" title="Dreamy Night" width=600/>
+      <img src="./authors/BisBiswas/dreamy-night-(FHD).jpg" title="Dreamy Night" width=600/>
     </a>
 
     <a href="https://www.deviantart.com/bisbiswas/art/Together-Alone-882985197">
-      <img src="./together-alone-(FHD).jpg" title="Together Alone" width=600/>
+      <img src="./authors/BisBiswas/together-alone-(FHD).jpg" title="Together Alone" width=600/>
     </a>
 
     <a href="https://www.deviantart.com/bisbiswas/art/Wayward-Clouds-893359947">
-      <img src="./wayward-clouds-(FHD).jpg" title="Wayward Clouds" width=600/>
+      <img src="./authors/BisBiswas/wayward-clouds-(FHD).jpg" title="Wayward Clouds" width=600/>
     </a>
 
     </details>
@@ -102,19 +102,19 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.artstation.com/artwork/YeEJ86">
-      <img src="./blue-lagoon-(4K).jpg" title="Blue Lagoon" width=600/>
+      <img src="./authors/Tyler Smith/blue-lagoon-(4K).jpg" title="Blue Lagoon" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/284RKy">
-      <img src="ancient-temple-valley-(4K).jpg" title="Ancient Temple Valley" width=600/>
+      <img src="./authors/Tyler Smith/ancient-temple-valley-(4K).jpg" title="Ancient Temple Valley" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/eaW1yZ">
-      <img src="./bird-statue-on-mountain-(4K).jpg" title="Bird Statue on a Mountain Top" width=600/>
+      <img src="./authors/Tyler Smith/bird-statue-on-mountain-(4K).jpg" title="Bird Statue on a Mountain Top" width=600/>
     </a>
 
     <a href="https://www.artstation.com/artwork/nYrvkO">
-      <img src="pink-temple-in-forest-(4K).jpg" title="Pink Temple in Forest" width=600/>
+      <img src="./authors/Tyler Smith/pink-temple-in-forest-(4K).jpg" title="Pink Temple in Forest" width=600/>
     </a>
 
     </details>
@@ -131,15 +131,15 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.deviantart.com/rmradev/art/Moon-sunset-landscape-825321054">
-      <img src="./saturn-(custom).jpg" title="Moon sunset landscape" width=600/>
+      <img src="./authors/rmRadev/saturn-(custom).jpg" title="Moon sunset landscape" width=600/>
     </a>
 
     <a href="https://www.deviantart.com/rmradev/art/Tranquility-852697412">
-      <img src="./tranquility-(custom).jpg" title="Tranquility" width=600/>
+      <img src="./authors/rmRadev/tranquility-(custom).jpg" title="Tranquility" width=600/>
     </a>
 
     <a href="https://www.deviantart.com/rmradev/art/Vampire-castle-commission-870198182">
-      <img src="./vampire-castle-(FHD).jpg" title="Vampire castle commission" width=600/>
+      <img src="./authors/rmRadev/vampire-castle-(FHD).jpg" title="Vampire castle commission" width=600/>
     </a>
 
     </details>
@@ -156,11 +156,11 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
 
     <a href="https://artyom.artstation.com/projects/ybx488">
-      <img src="./mystery-shack-(FHD).jpg" title="Mystery Shack 2.0" width=600/>
+      <img src="./authors/Artem Shashkin/mystery-shack-(FHD).jpg" title="Mystery Shack 2.0" width=600/>
     </a>
 
     <a href="https://artyom.artstation.com/projects/L20yVK">
-      <img src="./conquistadors-first-expedition-(custom).jpg" title="Conquistadors. First expedition / image 2" width=600/>
+      <img src="./authors/Artem Shashkin/conquistadors-first-expedition-(custom).jpg" title="Conquistadors. First expedition / image 2" width=600/>
     </a>
 
     </details>
@@ -176,11 +176,11 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.flickr.com/photos/marser/3746392026/in/photostream/">
-      <img src="./shape-of-happiness-(custom).jpg" title="shape of happiness" width=600/>
+      <img src="./authors/Marser/shape-of-happiness-(custom).jpg" title="shape of happiness" width=600/>
     </a>
 
     <a href="https://www.flickr.com/photos/marser/30386293873/">
-      <img src="./autumn-foliage-(4K).jpg" title="momiji '16 - autumn foliage" width=600/>
+      <img src="./authors/Marser/autumn-foliage-(4K).jpg" title="momiji '16 - autumn foliage" width=600/>
     </a>
 
     </details>
@@ -199,11 +199,11 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.flickr.com/photos/95951531@N05/39714562674/">
-      <img src="./canyons-of-iceland-(custom).jpg" title="Canyons of Iceland" width=600/>
+      <img src="./authors/Johannes Hulsch/canyons-of-iceland-(custom).jpg" title="Canyons of Iceland" width=600/>
     </a>
 
     <a href="https://www.flickr.com/photos/95951531@N05/24943300409/">
-      <img src="./snowy-bridge-(custom).jpg" title="Across the bridge" width=600/>
+      <img src="./authors/Johannes Hulsch/snowy-bridge-(custom).jpg" title="Across the bridge" width=600/>
     </a>
 
     </details>
@@ -221,7 +221,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.pexels.com/photo/selective-focus-photography-of-turned-on-black-metal-framed-light-sconce-414144/">
-      <img src="./morning-lantern-(custom).jpg" title="Selective Focus Photography of Turne" width=600/>
+      <img src="./authors/Pixabay/morning-lantern-(custom).jpg" title="Selective Focus Photography of Turne" width=600/>
     </a>
 
     </details>
@@ -237,7 +237,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://unsplash.com/photos/aL7SA1ASVdQ">
-      <img src="./pine-forest-(4K).jpg" title="Lush green pine forest" width=600/>
+      <img src="./authors/Andrew Coelho/pine-forest-(4K).jpg" title="Lush green pine forest" width=600/>
     </a>
 
     </details>
@@ -254,7 +254,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.pexels.com/photo/brown-boat-dock-140140/">
-      <img src="./brown-boat-dock-(custom).jpg" title="Brown Boat Dock" width=600/>
+      <img src="./authors/Pok Rie/brown-boat-dock-(custom).jpg" title="Brown Boat Dock" width=600/>
     </a>
 
     </details>
@@ -271,7 +271,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.pexels.com/photo/timelapse-photography-of-lake-593185/">
-      <img src="./lake-timelapse-(custom).jpg" title="Timelapse Photography of Lake" width=600/>
+      <img src="./authors/Taras Makarenko/lake-timelapse-(custom).jpg" title="Timelapse Photography of Lake" width=600/>
     </a>
 
     </details>
@@ -288,7 +288,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://unsplash.com/photos/RONnMobq0_Y">
-      <img src="./white-wall-(custom).jpg" title="white wall photo" width=600/>
+      <img src="./authors/Bogomil Mihaylov/white-wall-(custom).jpg" title="white wall photo" width=600/>
     </a>
 
     </details>
@@ -305,7 +305,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://unsplash.com/photos/1v-snxcyHHk">
-      <img src="./ocean-waves-(4K).jpg" title="aerial photography of ocean waves" width=600/>
+      <img src="./authors/Gleb Kozenko/ocean-waves-(4K).jpg" title="aerial photography of ocean waves" width=600/>
     </a>
 
     </details>
@@ -321,7 +321,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.artstation.com/artwork/gb3BK">
-      <img src="./cursed-forest-(FHD).jpg" title="The Cursed Forest" width=600/>
+      <img src="./authors/Digital Frontiers/cursed-forest-(FHD).jpg" title="The Cursed Forest" width=600/>
     </a>
 
     </details>
@@ -338,7 +338,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://draculatheme.com/wallpaper">
-      <img src="./arch-dracula-(4K).jpg" title="Arch Dracula" width=600/>
+      <img src="./authors/Dracula Theme/arch-dracula-(4K).jpg" title="Arch Dracula" width=600/>
     </a>
 
     </details>
@@ -354,7 +354,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.deviantart.com/alvaroserpa/art/loneliness-894844696">
-      <img src="./loneliness-(4K).jpg" title="loneliness" width=600/>
+      <img src="./authors/alvaroserpa/loneliness-(4K).jpg" title="loneliness" width=600/>
     </a>
 
     </details>
@@ -369,7 +369,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.artstation.com/artwork/v2N1A6">
-      <img src="./marshland-(FHD).jpg" title="Marshland" width=600/>
+      <img src="./authors/Monster Du/marshland-(FHD).jpg" title="Marshland" width=600/>
     </a>
 
     </details>
@@ -386,7 +386,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://unsplash.com/photos/a2kD4b0KK4s">
-      <img src="./dark-grey-mountain-(FHD).jpg" title="desert at night" width=600/>
+      <img src="./authors/Mike Yukhtenko/dark-grey-mountain-(FHD).jpg" title="desert at night" width=600/>
     </a>
 
     </details>
@@ -402,7 +402,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.artstation.com/artwork/XnGx8L">
-      <img src="./koi-moon-(4K).jpg" title="Spirit World" width=600/>
+      <img src="./authors/Gabriela Wasiewicz/koi-moon-(4K).jpg" title="Spirit World" width=600/>
     </a>
 
     </details>
@@ -419,7 +419,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://unsplash.com/photos/g30P1zcOzXo">
-      <img src="./snowy-mountain-photo-(4K).jpg" title="snowy mountain" width=600/>
+      <img src="./authors/Daniel Leone/snowy-mountain-photo-(4K).jpg" title="snowy mountain" width=600/>
     </a>
 
     </details>
@@ -437,7 +437,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.pexels.com/photo/green-leaves-1072179/">
-      <img src="./green-leaves-(4K).jpg" title="Green Leaves" width=600/>
+      <img src="./authors/Cátia Matos/green-leaves-(4K).jpg" title="Green Leaves" width=600/>
     </a>
 
     </details>
@@ -454,7 +454,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://unsplash.com/photos/AHC2GEyBQFc">
-      <img src="./chalet-in-the-snow-(4K).jpg" title="Chalet in the snow" width=600/>
+      <img src="./authors/Troy Qian/chalet-in-the-snow-(4K).jpg" title="Chalet in the snow" width=600/>
     </a>
 
     </details>
@@ -471,7 +471,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.pexels.com/photo/photo-of-fern-plants-2757549/">
-      <img src="./mystic-ferns-(4K).jpg" title="Photo of Fern Plants" width=600/>
+      <img src="./authors/Elias Tigiser/mystic-ferns-(4K).jpg" title="Photo of Fern Plants" width=600/>
     </a>
 
     </details>
@@ -488,7 +488,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://500px.com/photo/126434873/Down-Into-The-Fog-by-Dylan-Furst/">
-      <img src="./down-into-the-fog-(QHD).jpg" title="Down Into The Fog" width=600/>
+      <img src="./authors/Dylan Furst/down-into-the-fog-(QHD).jpg" title="Down Into The Fog" width=600/>
     </a>
 
     </details>
@@ -504,7 +504,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://unsplash.com/photos/OZSNnAU5RPk">
-      <img src="./forest-path-(QHD).jpg" title="black metal bridge near trees" width=600/>
+      <img src="./authors/Aaron Alvarado/forest-path-(QHD).jpg" title="black metal bridge near trees" width=600/>
     </a>
 
     </details>
@@ -521,7 +521,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://unsplash.com/photos/LxQe7xNGHJA">
-      <img src="./house-in-the-jungle-(4K).jpg" title="landscape photography of brown house surrounded by green leafed trees during daytime" width=600/>
+      <img src="./authors/Joshua Newton/house-in-the-jungle-(4K).jpg" title="landscape photography of brown house surrounded by green leafed trees during daytime" width=600/>
     </a>
 
     </details>
@@ -539,7 +539,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.pexels.com/photo/photo-of-forest-during-fall-1996042/">
-      <img src="./mystical-forest-(FHD).jpg" title="Photo of Forest During Fall" width=600/>
+      <img src="./authors/Johannes Plenio/mystical-forest-(FHD).jpg" title="Photo of Forest During Fall" width=600/>
     </a>
 
     </details>
@@ -555,7 +555,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.reddit.com/r/wallpaper/comments/ql4fk4/3840x2160_oc_cubes/">
-      <img src="./cubes-(4K).jpg" title="Cubes" width=600/>
+      <img src="./authors/Dynamo2205/cubes-(4K).jpg" title="Cubes" width=600/>
     </a>
 
     </details>
@@ -571,7 +571,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.reddit.com/r/japanpics/comments/6ac3zq/gion_after_rain_oc4751x3167/">
-      <img src="./rain-on-alley-(4K).jpg" title="Gion after rain" width=600/>
+      <img src="./authors/ChingP/rain-on-alley-(4K).jpg" title="Gion after rain" width=600/>
     </a>
 
     </details>
@@ -587,7 +587,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.reddit.com/r/wallpapers/comments/868o8h/made_some_sea_of_thieves_wallpapers_single_and/">
-      <img src="./sea-of-thieves-(FHD).jpg" title="Made some Sea of Thieves wallpapers" width=600/>
+      <img src="./authors/irbChad/sea-of-thieves-(FHD).jpg" title="Made some Sea of Thieves wallpapers" width=600/>
     </a>
 
     </details>
@@ -603,7 +603,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     <summary>Wallpapers</summary>
     
     <a href="https://www.reddit.com/r/glitch_art/comments/mv1hzu/skull_oc/">
-      <img src="./skull-(4K).jpg" title="Skull" width=600/>
+      <img src="./authors/CUtePOiSOn77/skull-(4K).jpg" title="Skull" width=600/>
     </a>
 
     </details>
