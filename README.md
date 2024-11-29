@@ -392,6 +392,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
     </details>
 </details>
 
+
 <details>
 <summary>FORREST CAVALE</summary>
 
@@ -406,6 +407,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
     </details>
 </details>
+
 
 <details>
 <summary>Gabriela Wasiewicz</summary>
@@ -509,24 +511,6 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
     <a href="https://www.flickr.com/photos/95951531@N05/24943300409/">
       <img src="./authors/Johannes Hulsch/snowy-bridge-(custom).jpg" title="Across the bridge" width=600/>
-    </a>
-
-    </details>
-</details>
-
-
-<details>
-<summary>Johannes Plenio</summary>
-
-- [His website](http://www.coolfreepix.com/)
-- [Pexels](https://www.pexels.com/@jplenio)
-- [Instagram](https://www.instagram.com/jplenio/)
-
-    <details>
-    <summary>Wallpapers</summary>
-
-    <a href="https://www.pexels.com/photo/photo-of-forest-during-fall-1996042/">
-      <img src="./authors/Johannes Plenio/mystical-forest-(FHD).jpg" title="Photo of Forest During Fall" width=600/>
     </a>
 
     </details>
@@ -696,8 +680,3 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
     </details>
 </details>
-
-
-
-</br>
-*(I will be searching for the missing authors)*
