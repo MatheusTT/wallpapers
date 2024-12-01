@@ -87,6 +87,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Andre Benz</summary>
+
+- [Unsplash](https://unsplash.com/@trapnation)
+- [X](https://x.com/benzspeaks)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/photography-of-railroad-during-nighttime-JnB8Gio4GZo">
+    <img src="./authors/Andre Benz/dark-railway-(4K).jpg" title="Ridin’ Alone." width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Andrew Coelho</summary>
 
 - [Unsplash](https://unsplash.com/@andrewcoelho)
@@ -247,6 +264,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Cristiano Mozzillo</summary>
+
+- [Unsplash](https://unsplash.com/@mozzillo_cristiano)
+- [500px](https://500px.com/p/cristianomozzillo)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/reflections-on-trees-on-lake-v3d5uBB26yA">
+    <img src="./authors/Cristiano Mozzillo/reflections-(4K).jpg" title="Reflections" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>CUtePOiSOn77</summary>
 
 - [Reddit](https://www.reddit.com/user/CUtePOiSOn77/)
@@ -291,6 +325,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://unsplash.com/photos/g30P1zcOzXo">
     <img src="./authors/Daniel Leone/snowy-mountain-photo-(4K).jpg" title="snowy mountain" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Dave Herring</summary>
+
+- [His Website](https://dave.online/)
+- [Unsplash](https://unsplash.com/@daveherring)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/a-road-with-a-mountain-in-the-background-J96yAwsGg0I">
+    <img src="./authors/Dave Herring/icefields-(custom).jpg" title="a road with a mountain in the background" width=600/>
   </a>
 
   </details>
@@ -430,6 +481,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Helena Lopes</summary>
+
+- [Pexels](https://www.pexels.com/@wildlittlethingsphoto/)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.pexels.com/photo/cars-riding-along-asphalt-road-towards-tunnel-on-gloomy-weather-4409445/">
+    <img src="./authors/Helena Lopes/gloomy-weather-(4K).jpg" title="Cars riding along asphalt road towards tunnel on gloomy weather" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>irbChad</summary>
 
 - [Reddit](https://www.reddit.com/user/irbChad/)
@@ -520,6 +587,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>KAL VISUALS</summary>
+
+- [Unsplash](https://unsplash.com/@kalvisuals)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/body-of-water-between-mountain-under-cloud-a-G0Ma--qbc">
+    <img src="./authors/KAL VISUALS/enjoy-the-view-(custom).jpg" title="Enjoy the view" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>konstantin chimaera</summary>
 
 - [Unsplash](https://unsplash.com/@chimaerra)
@@ -588,6 +671,42 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Pascal Debrunner</summary>
+
+- [Unsplash](https://unsplash.com/@debrupas)
+- [Instagram](https://www.instagram.com/pd_visuals/)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/body-of-water-near-mountain-LKOuYT5_dyw">
+    <img src="./authors/Pascal Debrunner/hurtigruten-(4K).jpg" title="hurtigruten" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Paul Pastourmatzis</summary>
+
+- [His Website](https://pueblo-vista.com/)
+- [Unsplash](https://unsplash.com/@pueblovista)
+- [Instagram](https://www.instagram.com/pueblo_vista/)
+- [X](https://x.com/pueblovista)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/calm-body-of-water-near-mountain-YR-oXTkOtLo">
+    <img src="./authors/Paul Pastourmatzis/calm-water-(custom).jpg" title="calm body of water near mountain" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Pok Rie</summary>
 
 - [Pexels](https://www.pexels.com/@pok-rie-33563)
@@ -615,6 +734,41 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://www.pexels.com/photo/timelapse-photography-of-lake-593185/">
     <img src="./authors/Taras Makarenko/lake-timelapse-(custom).jpg" title="Timelapse Photography of Lake" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Tim Mossholder</summary>
+
+- [His Website](https://timmossholder.com/)
+- [Unsplash](https://unsplash.com/@timmossholder)
+- [X](https://x.com/timmossholder)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/green-leafed-plant-in-brick-wall-SgPgLrDqPcU">
+    <img src="./authors/Tim Mossholder/ivy-wall-(4K).jpg" title="green leafed plant in brick wallpapers" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Trey Ratcliff</summary>
+
+- [flickr](https://www.flickr.com/people/stuckincustoms/)
+- [Linktree](https://linktr.ee/treyratcliff)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.flickr.com/photos/stuckincustoms/3985718888/in/album-72157622598602597/">
+    <img src="./authors/Trey Ratcliff/tokyo-temple-(custom).jpg" title="The Treetop Temple Protects Kyoto" width=600/>
   </a>
 
   </details>
