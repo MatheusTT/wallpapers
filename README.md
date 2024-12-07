@@ -89,6 +89,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Alex Knight</summary>
+
+- [Unsplash](https://unsplash.com/@agk42)
+- [Instagram](https://www.instagram.com/Agk42)
+- [X](https://x.com/agkdesign)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/cityscape-photo-of-buildings--4pZ_YqcSFc">
+    <img src="./authors/Alex Knight/tokyo-bay-(4K).jpg" title="cityscape photo of buildings" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>alvaroserpa</summary>
 
 - [DeviantArt](https://www.deviantart.com/alvaroserpa)
@@ -147,6 +165,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://www.flickr.com/photos/desomnis/26511988609/in/explore-2017-11-09/">
     <img src="./authors/Angelika Stephan/misty-mountains-(FHD).jpg" title="Hallstatt" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>anindoghosh</summary>
+
+- [Pixabay](https://pixabay.com/users/anindoghosh-16926735/)
+- [Instagram](https://www.instagram.com/anindoghosh/)
+- [X](https://x.com/anindo)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://pixabay.com/videos/light-colorful-spheres-floating-45634/">
+    <img src="./authors/anindoghosh/floating-spheres-of-light-(4K).jpg" title="Light colorful spheres" width=600/>
   </a>
 
   </details>
@@ -368,6 +404,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Danyu Wang</summary>
+
+- [Unsplash](https://unsplash.com/@dandandan0101)
+- [Instagram](https://www.instagram.com/w_danyu)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/body-of-water-during-sunset-2wZoOkmKG1E">
+    <img src="./authors/Danyu Wang/sunset-at-lake-(custom).jpg" title="Beautiful sunset at West Lake" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Dave Herring</summary>
 
 - [His Website](https://dave.online/)
@@ -410,6 +463,27 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://www.artstation.com/artwork/gb3BK">
     <img src="./authors/Digital Frontiers/cursed-forest-(FHD).jpg" title="The Cursed Forest" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Dominik Zdenković</summary>
+
+- [His Website](https://dominikzdenkovic.com/)
+- [ArtStation](https://www.artstation.com/dominikzdenkovic)
+- [Linktree](https://linktr.ee/dominikzdenkovic)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.artstation.com/artwork/aGR5kz">
+    <img src="./authors/Dominik Zdenković/a-town-on-bones-(4K).jpg" title="Landscape Sketches" width=600/>
+  </a>
+  <a href="https://www.artstation.com/artwork/nQd6kE">
+    <img src="./authors/Dominik Zdenković/seyda-neen-(FHD).jpg" title="Seyda Neen" width=600/>
   </a>
 
   </details>
@@ -691,6 +765,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>JULIAN CALLE</summary>
+
+- [ArtStation](https://www.artstation.com/handsdigitalstudio)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.artstation.com/artwork/ykd9Y5">
+    <img src="./authors/JULIAN CALLE/lonely-mountain-(4K).jpg" title="Lonely mountain." width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>KAL VISUALS</summary>
 
 - [Unsplash](https://unsplash.com/@kalvisuals)
@@ -700,6 +790,25 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://unsplash.com/photos/body-of-water-between-mountain-under-cloud-a-G0Ma--qbc">
     <img src="./authors/KAL VISUALS/enjoy-the-view-(custom).jpg" title="Enjoy the view" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Kanistra Studio</summary>
+
+- [His Website](https://kanistra.com/)
+- [ArtStation](https://www.artstation.com/kanistrastudio)
+- [X](twitter.com/kanistra_studio)
+- [Sketchfab](https://sketchfab.com/kanistra)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.artstation.com/artwork/Bmd6zm">
+    <img src="./authors/Kanistra Studio/pixel-art-of-a-club-entrance-(FHD).jpg" title="Unicorn" width=600/>
   </a>
 
   </details>
@@ -739,6 +848,25 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>LEIKOI</summary>
+
+- [ArtStation](https://www.deviantart.com/leikoi)
+- [Instagram](https://www.instagram.com/leik0i/)
+- [X](https://x.com/LEIK0I)
+- [Patreon](https://www.patreon.com/LEIKOI)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.deviantart.com/leikoi/art/The-Neon-Shallows-823330548">
+    <img src="./authors/LEIKOI/neon-(4K).jpg" title="The Neon Shallows" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>liamwong</summary>
 
 - [His Website](https://www.liamwong.com/)
@@ -753,6 +881,44 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
   </a>
   <a href="https://www.liamwong.com/#/kyoto-matcha-green/">
     <img src="./authors/liamwong/kyoto-matcha-green-(FHD).jpg" title="Kyoto Matcha Green" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Louis Coyle</summary>
+
+- [His Website](https://louie.co.nz/)
+- [Dribbble](https://dribbble.com/louiscoyle)
+- [CodePen](https://codepen.io/dropside)
+- [X](https://x.com/louis_coyle)
+- [Facebook](https://www.facebook.com/louis.j.coyle)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://dribbble.com/shots/10094240-Tropical-Escape-Wallpaper">
+    <img src="./authors/Louis Coyle/tropical-escape-(custom).jpg" title="Tropical Escape Wallpaper" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Mark Boss</summary>
+
+- [His Website](https://markboss.me/)
+- [Unsplash](https://unsplash.com/@vork)
+- [X](https://x.com/markb_boss)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/chrysler-building-new-york-aTWNx7yoJWo">
+    <img src="./authors/Mark Boss/chrysler-building-(4K).jpg" title="Chrysler Building, New York" width=600/>
   </a>
 
   </details>
@@ -881,6 +1047,27 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>PrisonerCoin</summary>
+
+- [ArtStation](https://www.deviantart.com/prisonercoin)
+- [X](https://x.com/CoinPrisoner)
+- [Steam](https://steamcommunity.com/id/Prisoner_Coin/)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.deviantart.com/prisonercoin/art/Calm-Skies-896075094">
+    <img src="./authors/PrisonerCoin/calm-skies-(FHD).jpg" title="Calm Skies" width=600/>
+  </a>
+  <a href="https://www.deviantart.com/prisonercoin/art/Leviathan-889466746">
+    <img src="./authors/PrisonerCoin/leviathan-(FHD).jpg" title="Leviathan" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Ricardo Gomez Angel</summary>
 
 - [His Website](https://rgaleria.com/)
@@ -908,6 +1095,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://unsplash.com/photos/brown-wooden-bridge-in-the-woods-A5GmtHW3O9k">
     <img src="./authors/Samuel Berner/hidden-temple-(custom).jpg" title="Hidden Temple in Japan" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Sayybils</summary>
+
+- [His Website](https://sayybilsnakirwa.wixsite.com/portofolio)
+- [ArtStation](https://www.artstation.com/sayybils)
+- [Instagram](https://www.instagram.com/sayybils)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.artstation.com/artwork/AqlqON">
+    <img src="./authors/Sayybils/midnight-tokyo-alley-(4K).jpg" title="Midnight tokyo alley" width=600/>
   </a>
 
   </details>
