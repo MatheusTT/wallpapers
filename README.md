@@ -27,6 +27,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Adam Jang</summary>
+
+- [Unsplash](https://unsplash.com/@adamjang)
+- [Instagram](https://www.instagram.com/adamjang)
+- [X](https://x.com/adamjang)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/black-sand-near-body-of-water-under-the-cloudy-sky-during-daytime-MLKrf51NV8w">
+    <img src="./authors/Adam Jang/iceland-(FHD).jpg" title="Iceland" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Alena Aenami</summary>
 
 - [ArtStation](https://www.artstation.com/aenamiart)
@@ -248,6 +266,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Carmine De Fazio</summary>
+
+- [Unsplash](https://unsplash.com/@carminu)
+- [Instagram](https://www.instagram.com/carminu)
+- [X](https://x.com/Carmins)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/aerial-photography-of-foggy-mountain-3ytjETpQMNY">
+    <img src="./authors/Carmine De Fazio/forest-under-fog-(4K).jpg" title="Forest under fog" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>ChingP</summary>
 
 - [Reddit](https://www.reddit.com/user/ChingP/)
@@ -349,6 +385,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>davimachado</summary>
+
+- [Pixabay](https://pixabay.com/users/davimachado-28498918/)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://pixabay.com/photos/moon-dark-silhouettes-moonlight-7307253/">
+    <img src="./authors/davimachado/firewatch-dark-(4K).jpg" title="Moon, Dark, Silhouettes image" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Digital Frontiers</summary>
 
 - [ArtStation](https://digitalfrontiers.artstation.com/)
@@ -408,6 +460,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://www.reddit.com/r/wallpaper/comments/ql4fk4/3840x2160_oc_cubes/">
     <img src="./authors/Dynamo2205/cubes-(4K).jpg" title="Cubes" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>einsbern</summary>
+
+- [tumblr](https://einsbern.tumblr.com/)
+- [X](https://x.com/_einzbern)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://einsbern.tumblr.com/post/140298085763/an-update-1366x768-version-here">
+    <img src="./authors/einsbern/japanese-castle-(custom).jpg" title="An update!" width=600/>
   </a>
 
   </details>
@@ -481,6 +550,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Glen Sinclair</summary>
+
+- [flickr](https://www.flickr.com/photos/144273526@N06)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.flickr.com/photos/144273526@N06/51529803337/in/dateposted/">
+    <img src="./authors/Glen Sinclair/lake-and-mountains-(4K).jpg" title="Surge" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Helena Lopes</summary>
 
 - [Pexels](https://www.pexels.com/@wildlittlethingsphoto/)
@@ -490,6 +575,25 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://www.pexels.com/photo/cars-riding-along-asphalt-road-towards-tunnel-on-gloomy-weather-4409445/">
     <img src="./authors/Helena Lopes/gloomy-weather-(4K).jpg" title="Cars riding along asphalt road towards tunnel on gloomy weather" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>hipydeus</summary>
+
+- [flickr](https://www.flickr.com/people/hipydeus/)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.flickr.com/photos/hipydeus/28691409551/in/album-72157604791022356">
+    <img src="./authors/hipydeus/nightfall-(4K).jpg" title="Nightfall" width=600/>
+  </a>
+  <a href="https://www.flickr.com/photos/hipydeus/39495435382/">
+    <img src="./authors/hipydeus/oasis-(custom).jpg" title="Oasis" width=600/>
   </a>
 
   </details>
@@ -619,6 +723,43 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Larry Chen</summary>
+
+- [Unsplash](https://unsplash.com/@chen_idragon)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/aerial-photo-of-road-between-trees-near-body-of-water-Nte-4RiRfwU">
+    <img src="./authors/Larry Chen/lakeside-road-(custom).jpg" title="Bend in a lakeside road" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>liamwong</summary>
+
+- [His Website](https://www.liamwong.com/)
+- [Instagram](https://www.instagram.com/liamwong)
+- [X](https://x.com/liamwong)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://x.com/liamwong/status/1182652914944413696/photo/2">
+    <img src="./authors/liamwong/seoul-after-dark-(QHD).jpg" title="Seoul after dark" width=600/>
+  </a>
+  <a href="https://www.liamwong.com/#/kyoto-matcha-green/">
+    <img src="./authors/liamwong/kyoto-matcha-green-(FHD).jpg" title="Kyoto Matcha Green" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Marser</summary>
 
 - [flickr](https://www.flickr.com/photos/marser/)
@@ -664,6 +805,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://www.artstation.com/artwork/v2N1A6">
     <img src="./authors/Monster Du/marshland-(FHD).jpg" title="Marshland" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Ori-Cloud</summary>
+
+- [DeviantArt](https://www.deviantart.com/ori-cloud/gallery)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.deviantart.com/ori-cloud/art/Desert-Night-Wallpaper-644647576">
+    <img src="./authors/Ori-Cloud/desert-night-(4K).jpg" title="Desert Night- Wallpaper" width=600/>
   </a>
 
   </details>
@@ -717,6 +874,40 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://www.pexels.com/photo/brown-boat-dock-140140/">
     <img src="./authors/Pok Rie/brown-boat-dock-(custom).jpg" title="Brown Boat Dock" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Ricardo Gomez Angel</summary>
+
+- [His Website](https://rgaleria.com/)
+- [Unsplash](https://unsplash.com/@rgaleriacom)
+- [Instagram](https://www.instagram.com/ricardogo03/)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/green-trees-near-lake-and-mountain-OdokGSJg53o">
+    <img src="./authors/Ricardo Gomez Angel/shades-of-mountains-(4K).jpg" title="The lake" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Samuel Berner</summary>
+
+- [Unsplash](https://unsplash.com/@saaam_chan)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/brown-wooden-bridge-in-the-woods-A5GmtHW3O9k">
+    <img src="./authors/Samuel Berner/hidden-temple-(custom).jpg" title="Hidden Temple in Japan" width=600/>
   </a>
 
   </details>
