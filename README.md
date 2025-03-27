@@ -5,8 +5,12 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 ## The wallpapers have this resolutions:
 - **FHD** = 1920x1080px
 - **QHD** = 2560×1440px
-- **4K** = 3840x2160px
+- **4K**  = 3840x2160px
 - **custom** = Any size that is not listed above, and was not resized
+
+## License
+- The **wallpapers** in this repository come from various sources, and their licenses vary. Some may have restrictions on redistribution. If you are the author of any image and want it removed, please contact me.
+- The **script** used to generate the `README.md` is licensed under the [MIT License](LICENSE).
 
 ## **Authors**
 
@@ -156,6 +160,25 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Andrew Spencer</summary>
+
+- [His Website](https://andrew-spencer.com/)
+- [Unsplash](https://unsplash.com/@iam_aspencer)
+- [Instagram](https://www.instagram.com/iam_aspencer)
+- [X](https://x.com/iam_aspencer)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/a-bed-sitting-in-a-bedroom-next-to-a-window-B2RKwf2IaJU">
+    <img src="./authors/Andrew Spencer/glamping-with-a-view-(custom).jpg" title="Glamping with a view!" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Angelika Stephan</summary>
 
 - [flickr](https://www.flickr.com/people/desomnis/)
@@ -216,9 +239,6 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://artyom.artstation.com/projects/ybx488">
     <img src="./authors/Artem Shashkin/mystery-shack-(FHD).jpg" title="Mystery Shack 2.0" width=600/>
-  </a>
-  <a href="https://artyom.artstation.com/projects/L20yVK">
-    <img src="./authors/Artem Shashkin/conquistadors-first-expedition-(custom).jpg" title="Conquistadors. First expedition / image 2" width=600/>
   </a>
 
   </details>
@@ -484,23 +504,6 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
   </a>
   <a href="https://www.artstation.com/artwork/nQd6kE">
     <img src="./authors/Dominik Zdenković/seyda-neen-(FHD).jpg" title="Seyda Neen" width=600/>
-  </a>
-
-  </details>
-</details>
-
-
-<details>
-<summary>Dracula Theme</summary>
-
-- [Dracula site](https://draculatheme.com/)
-- [GitHub](https://github.com/dracula/dracula-theme)
-
-  <details>
-  <summary>Wallpapers</summary>
-
-  <a href="https://draculatheme.com/wallpaper">
-    <img src="./authors/Dracula Theme/arch-dracula-(4K).jpg" title="Arch Dracula" width=600/>
   </a>
 
   </details>
@@ -1079,6 +1082,25 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://unsplash.com/photos/green-trees-near-lake-and-mountain-OdokGSJg53o">
     <img src="./authors/Ricardo Gomez Angel/shades-of-mountains-(4K).jpg" title="The lake" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>saira ahmed</summary>
+
+- [His Website](https://saira.mypixieset.com/)
+- [Unsplash](https://unsplash.com/@sairaa)
+- [Instagram](https://www.instagram.com/sairaphotography)
+- [X](https://x.com/sairaahmeddd)
+
+  <details>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/a-view-of-a-pier-next-to-a-window-KygOGONuSMc">
+    <img src="./authors/saira ahmed/sunset-from-apartment-(custom).jpg" title="Sunset from apartment in Aptos" width=600/>
   </a>
 
   </details>
