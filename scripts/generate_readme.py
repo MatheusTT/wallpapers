@@ -20,7 +20,7 @@ def yaml_to_md(file: str) -> str:
   data = yaml_to_dict(file)
   for i in data["links"]:
     readme += f"- [{i}]({data["links"][i]})\n"
-  readme += "\n  <details>\n  <summary>Wallpapers</summary>\n"
+  readme += "\n  <details open>\n  <summary>Wallpapers</summary>\n"
   for i in data["wallpapers"]:
     readme += f"""
   <a href=\"{i["link"]}\">

@@ -1,4 +1,13 @@
+<div align="center">
+
 # A collection of Wallpapers
+[![stars](https://img.shields.io/github/stars/MatheusTT/wallpapers?color=7E9CD8&style=for-the-badge)](https://github.com/MatheusTT/wallpapers/stargazers)
+[![issues](https://img.shields.io/github/issues/MatheusTT/wallpapers?color=FF5D62&style=for-the-badge)](https://github.com/MatheusTT/wallpapers/issues)
+[![size](https://img.shields.io/github/repo-size/MatheusTT/wallpapers?color=76946A&style=for-the-badge)](https://github.com/MatheusTT/wallpapers)
+
+</div>
+
+<br>
 
 Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/wallpapers/), or from rices from [r/unixporn](https://www.reddit.com/r/unixporn/), and most of it may be modified and/or resized.
 
@@ -19,7 +28,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Unsplash](https://unsplash.com/@aaronalvaradome)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/OZSNnAU5RPk">
@@ -37,7 +46,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Instagram](https://www.instagram.com/adamjang)
 - [X](https://x.com/adamjang)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/black-sand-near-body-of-water-under-the-cloudy-sky-during-daytime-MLKrf51NV8w">
@@ -54,7 +63,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [ArtStation](https://www.artstation.com/aenamiart)
 - [Linktree](https://linktr.ee/aenami)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.artstation.com/artwork/259YY">
@@ -99,11 +108,14 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Instagram](https://www.instagram.com/Agk42)
 - [X](https://x.com/agkdesign)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/cityscape-photo-of-buildings--4pZ_YqcSFc">
     <img src="./authors/Alex Knight/tokyo-bay-(4K).jpg" title="cityscape photo of buildings" width=600/>
+  </a>
+  <a href="https://unsplash.com/photos/empty-pathway-in-between-stores-wfwUpfVqrKU">
+    <img src="./authors/Alex Knight/sangenjaya-alley-(4K).jpg" title="Sangenjaya, Setagaya, Japan" width=600/>
   </a>
 
   </details>
@@ -115,7 +127,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [DeviantArt](https://www.deviantart.com/alvaroserpa)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.deviantart.com/alvaroserpa/art/loneliness-894844696">
@@ -132,7 +144,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@trapnation)
 - [X](https://x.com/benzspeaks)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/photography-of-railroad-during-nighttime-JnB8Gio4GZo">
@@ -148,7 +160,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Unsplash](https://unsplash.com/@andrewcoelho)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/aL7SA1ASVdQ">
@@ -167,7 +179,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Instagram](https://www.instagram.com/iam_aspencer)
 - [X](https://x.com/iam_aspencer)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/a-bed-sitting-in-a-bedroom-next-to-a-window-B2RKwf2IaJU">
@@ -183,7 +195,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [flickr](https://www.flickr.com/people/desomnis/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.flickr.com/photos/desomnis/26511988609/in/explore-2017-11-09/">
@@ -201,7 +213,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Instagram](https://www.instagram.com/anindoghosh/)
 - [X](https://x.com/anindo)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://pixabay.com/videos/light-colorful-spheres-floating-45634/">
@@ -217,7 +229,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Unsplash](https://unsplash.com/@belart84)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/rock-formation-on-body-of-water-surrounded-by-trees-during-daytime-sVhRMCyo1_Y">
@@ -234,7 +246,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [ArtStation](https://artyom.artstation.com/)
 - [Instagram](https://www.instagram.com/artem_shashkin_art/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://artyom.artstation.com/projects/ybx488">
@@ -250,7 +262,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Pixabay](https://pixabay.com/users/arturg%C3%B3recki-2233926/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://pixabay.com/photos/twilight-replacement-lamp-lantern-2291361/">
@@ -266,7 +278,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Pexels](https://www.pexels.com/@asadphoto/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.pexels.com/photo/photo-of-beach-during-nighttime-1450361/">
@@ -284,7 +296,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [DeviantArt](https://www.deviantart.com/bisbiswas)
 - [Instagram](https://www.instagram.com/hereisbis/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.deviantart.com/bisbiswas/art/Wayward-Clouds-893359947">
@@ -310,7 +322,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@bogomi)
 - [Instagram](https://instagram.com/ojobojo)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/RONnMobq0_Y">
@@ -328,7 +340,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Instagram](https://www.instagram.com/carminu)
 - [X](https://x.com/Carmins)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/aerial-photography-of-foggy-mountain-3ytjETpQMNY">
@@ -344,7 +356,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Reddit](https://www.reddit.com/user/ChingP/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.reddit.com/r/japanpics/comments/6ac3zq/gion_after_rain_oc4751x3167/">
@@ -361,7 +373,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@mozzillo_cristiano)
 - [500px](https://500px.com/p/cristianomozzillo)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/reflections-on-trees-on-lake-v3d5uBB26yA">
@@ -377,7 +389,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Reddit](https://www.reddit.com/user/CUtePOiSOn77/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.reddit.com/r/glitch_art/comments/mv1hzu/skull_oc/">
@@ -395,11 +407,27 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Darkroom](https://catiamatos.darkroom.tech/)
 - [Instagram](https://www.instagram.com/catia.matos/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.pexels.com/photo/green-leaves-1072179/">
     <img src="./authors/Cátia Matos/green-leaves-(4K).jpg" title="Green Leaves" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Dan Convey</summary>
+
+- [Unsplash](https://unsplash.com/@danconvey)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/rock-formation-on-shoreline-9fj4XT6e1s0">
+    <img src="./authors/Dan Convey/rolling-in-the-deep-(4K).jpg" title="Rolling in the Deep" width=600/>
   </a>
 
   </details>
@@ -412,7 +440,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [His Website](https://danielleone.com/)
 - [Unsplash](https://unsplash.com/@danielleone)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/g30P1zcOzXo">
@@ -429,7 +457,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@dandandan0101)
 - [Instagram](https://www.instagram.com/w_danyu)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/body-of-water-during-sunset-2wZoOkmKG1E">
@@ -446,7 +474,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [His Website](https://dave.online/)
 - [Unsplash](https://unsplash.com/@daveherring)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/a-road-with-a-mountain-in-the-background-J96yAwsGg0I">
@@ -462,7 +490,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Pixabay](https://pixabay.com/users/davimachado-28498918/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://pixabay.com/photos/moon-dark-silhouettes-moonlight-7307253/">
@@ -478,7 +506,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [ArtStation](https://digitalfrontiers.artstation.com/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.artstation.com/artwork/gb3BK">
@@ -496,7 +524,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [ArtStation](https://www.artstation.com/dominikzdenkovic)
 - [Linktree](https://linktr.ee/dominikzdenkovic)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.artstation.com/artwork/aGR5kz">
@@ -516,7 +544,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [500px](https://500px.com/p/fursty?view=photos)
 - [Instagram](https://www.instagram.com/fursty/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://500px.com/photo/126434873/Down-Into-The-Fog-by-Dylan-Furst/">
@@ -532,7 +560,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Reddit](https://www.reddit.com/user/Dynamo2205/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.reddit.com/r/wallpaper/comments/ql4fk4/3840x2160_oc_cubes/">
@@ -549,7 +577,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [tumblr](https://einsbern.tumblr.com/)
 - [X](https://x.com/_einzbern)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://einsbern.tumblr.com/post/140298085763/an-update-1366x768-version-here">
@@ -566,7 +594,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Pexels](https://www.pexels.com/@elias-tigiser-411757)
 - [Instagram](https://www.instagram.com/elias_tigiser/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.pexels.com/photo/photo-of-fern-plants-2757549/">
@@ -582,7 +610,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Unsplash](https://unsplash.com/@forrestcavale)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/mountain-covered-with-green-trees-qfmd9bu7IgA">
@@ -598,7 +626,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [ArtStation](https://glla.artstation.com/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.artstation.com/artwork/XnGx8L">
@@ -615,7 +643,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@glebson)
 - [Instagram](https://www.instagram.com/gleb.kozenko/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/1v-snxcyHHk">
@@ -631,7 +659,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [flickr](https://www.flickr.com/photos/144273526@N06)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.flickr.com/photos/144273526@N06/51529803337/in/dateposted/">
@@ -647,7 +675,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Pexels](https://www.pexels.com/@wildlittlethingsphoto/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.pexels.com/photo/cars-riding-along-asphalt-road-towards-tunnel-on-gloomy-weather-4409445/">
@@ -663,7 +691,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [flickr](https://www.flickr.com/people/hipydeus/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.flickr.com/photos/hipydeus/28691409551/in/album-72157604791022356">
@@ -682,7 +710,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Reddit](https://www.reddit.com/user/irbChad/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.reddit.com/r/wallpapers/comments/868o8h/made_some_sea_of_thieves_wallpapers_single_and/">
@@ -698,7 +726,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Unsplash](https://unsplash.com/@nervum)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/a-pier-with-a-building-on-it-in-the-middle-of-the-ocean-47cwKc0BC3k">
@@ -717,7 +745,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Unsplash](https://unsplash.com/@jamie452)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/golden-gate-bridge-san-francisco-california-taken-under-clear-sky-SN6126il5Vc">
@@ -736,7 +764,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [500px](https://500px.com/p/bokehm0n?view=photos)
 - [Instagram](https://www.instagram.com/bokehm0n/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.flickr.com/photos/95951531@N05/39714562674/">
@@ -756,7 +784,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@joshuanewton)
 - [Instagram](https://www.instagram.com/momentsbyjosh/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/LxQe7xNGHJA">
@@ -772,7 +800,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [ArtStation](https://www.artstation.com/handsdigitalstudio)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.artstation.com/artwork/ykd9Y5">
@@ -788,7 +816,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Unsplash](https://unsplash.com/@kalvisuals)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/body-of-water-between-mountain-under-cloud-a-G0Ma--qbc">
@@ -807,7 +835,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [X](twitter.com/kanistra_studio)
 - [Sketchfab](https://sketchfab.com/kanistra)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.artstation.com/artwork/Bmd6zm">
@@ -823,7 +851,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Unsplash](https://unsplash.com/@chimaerra)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/L9DhSbhKJG4">
@@ -839,7 +867,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Unsplash](https://unsplash.com/@chen_idragon)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/aerial-photo-of-road-between-trees-near-body-of-water-Nte-4RiRfwU">
@@ -858,7 +886,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [X](https://x.com/LEIK0I)
 - [Patreon](https://www.patreon.com/LEIKOI)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.deviantart.com/leikoi/art/The-Neon-Shallows-823330548">
@@ -876,7 +904,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Instagram](https://www.instagram.com/liamwong)
 - [X](https://x.com/liamwong)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://x.com/liamwong/status/1182652914944413696/photo/2">
@@ -899,7 +927,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [X](https://x.com/louis_coyle)
 - [Facebook](https://www.facebook.com/louis.j.coyle)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://dribbble.com/shots/10094240-Tropical-Escape-Wallpaper">
@@ -917,7 +945,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@vork)
 - [X](https://x.com/markb_boss)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/chrysler-building-new-york-aTWNx7yoJWo">
@@ -933,7 +961,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [flickr](https://www.flickr.com/photos/marser/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.flickr.com/photos/marser/3746392026/in/photostream/">
@@ -953,7 +981,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@yamaicle)
 - [Instagram](https://www.instagram.com/ya.maicle/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/a2kD4b0KK4s">
@@ -969,7 +997,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [ArtStation](https://dumonster.artstation.com/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.artstation.com/artwork/v2N1A6">
@@ -981,11 +1009,29 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Nahil Naseer</summary>
+
+- [Unsplash](https://unsplash.com/@nahilnaseer)
+- [Instagram](https://www.instagram.com/nahilnaseer)
+- [X](https://x.com/Nahil_Naseer)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/green-leaf-plants-xljtGZ2-P3Y">
+    <img src="./authors/Nahil Naseer/dark-leaves-(custom).jpg" title="coming alive" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Ori-Cloud</summary>
 
 - [DeviantArt](https://www.deviantart.com/ori-cloud/gallery)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.deviantart.com/ori-cloud/art/Desert-Night-Wallpaper-644647576">
@@ -1002,7 +1048,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@debrupas)
 - [Instagram](https://www.instagram.com/pd_visuals/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/body-of-water-near-mountain-LKOuYT5_dyw">
@@ -1021,7 +1067,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Instagram](https://www.instagram.com/pueblo_vista/)
 - [X](https://x.com/pueblovista)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/calm-body-of-water-near-mountain-YR-oXTkOtLo">
@@ -1038,7 +1084,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Pexels](https://www.pexels.com/@pok-rie-33563)
 - [Instagram](https://www.instagram.com/pok_rie/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.pexels.com/photo/brown-boat-dock-140140/">
@@ -1056,7 +1102,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [X](https://x.com/CoinPrisoner)
 - [Steam](https://steamcommunity.com/id/Prisoner_Coin/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.deviantart.com/prisonercoin/art/Calm-Skies-896075094">
@@ -1077,11 +1123,29 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@rgaleriacom)
 - [Instagram](https://www.instagram.com/ricardogo03/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/green-trees-near-lake-and-mountain-OdokGSJg53o">
     <img src="./authors/Ricardo Gomez Angel/shades-of-mountains-(4K).jpg" title="The lake" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Ronaldo de Oliveira</summary>
+
+- [His Website](https://ronaldorolv.myportfolio.com/)
+- [Unsplash](https://unsplash.com/@ronaldordeoliveira)
+- [Instagram](https://www.instagram.com/ronaldordeoliveira)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/gray-walkway-at-middle-of-forests-DTitVxbxaLI">
+    <img src="./authors/Ronaldo de Oliveira/forest-path-(4K).jpg" title="Path" width=600/>
   </a>
 
   </details>
@@ -1096,7 +1160,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Instagram](https://www.instagram.com/sairaphotography)
 - [X](https://x.com/sairaahmeddd)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/a-view-of-a-pier-next-to-a-window-KygOGONuSMc">
@@ -1112,7 +1176,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [Unsplash](https://unsplash.com/@saaam_chan)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/brown-wooden-bridge-in-the-woods-A5GmtHW3O9k">
@@ -1130,11 +1194,27 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [ArtStation](https://www.artstation.com/sayybils)
 - [Instagram](https://www.instagram.com/sayybils)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.artstation.com/artwork/AqlqON">
     <img src="./authors/Sayybils/midnight-tokyo-alley-(4K).jpg" title="Midnight tokyo alley" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>SuicidalMushroom</summary>
+
+- [ArtStation](https://www.deviantart.com/suicidalmushroom)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.deviantart.com/suicidalmushroom/art/Itsukushima-Floating-Torii-Gate-in-Japan-4k-771245627">
+    <img src="./authors/SuicidalMushroom/floating-gate-(4K).jpg" title="Itsukushima Floating Torii Gate in Japan 4k" width=600/>
   </a>
 
   </details>
@@ -1147,7 +1227,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Pexels](https://www.pexels.com/@taras-makarenko-188506)
 - [Instagram](https://instagram.com/gotocalifornia/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.pexels.com/photo/timelapse-photography-of-lake-593185/">
@@ -1165,7 +1245,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@timmossholder)
 - [X](https://x.com/timmossholder)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/green-leafed-plant-in-brick-wall-SgPgLrDqPcU">
@@ -1182,7 +1262,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [flickr](https://www.flickr.com/people/stuckincustoms/)
 - [Linktree](https://linktr.ee/treyratcliff)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.flickr.com/photos/stuckincustoms/3985718888/in/album-72157622598602597/">
@@ -1199,7 +1279,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 - [Unsplash](https://unsplash.com/@troyqian)
 - [Instagram](https://instagram.com/ycq_troy)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://unsplash.com/photos/AHC2GEyBQFc">
@@ -1215,7 +1295,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 - [ArtStation](https://tsmith3d.artstation.com/)
 
-  <details>
+  <details open>
   <summary>Wallpapers</summary>
 
   <a href="https://www.artstation.com/artwork/284RKy">
