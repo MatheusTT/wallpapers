@@ -368,6 +368,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Christoph Nolte</summary>
+
+- [Unsplash](https://unsplash.com/@pic_nolte)
+- [Instagram](https://www.instagram.com/Pic_Nolte_photography)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/a-river-that-has-some-ice-on-it-hUhP8wr_dBo">
+    <img src="./authors/Christoph Nolte/ice-river-(4K).jpg" title="Storforsen rapids in Winter" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Cristiano Mozzillo</summary>
 
 - [Unsplash](https://unsplash.com/@mozzillo_cristiano)
@@ -757,6 +774,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Jenny Hanell</summary>
+
+- [Google Play](https://play.google.com/store/apps/dev?id=6459265383846717035)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://play.google.com/store/apps/details?id=com.hippotech.materialislands">
+    <img src="./authors/Jenny Hanell/iceberg-(FHD).jpg" title="Material Islands™ - Semi-live" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Johannes Hulsch</summary>
 
 - [His Website](https://johanneshulsch.de/)
@@ -976,6 +1009,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Matyas Prochy</summary>
+
+- [Unsplash](https://unsplash.com/@matyasprochy)
+- [Instagram](https://www.instagram.com/matyasprochy)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/a2kD4b0KK4s">
+    <img src="./authors/Matyas Prochy/cliff-village-(4K).jpg" title="a small village on the edge of a cliff next to the ocean" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Mike Yukhtenko</summary>
 
 - [Unsplash](https://unsplash.com/@yamaicle)
@@ -1020,6 +1070,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://unsplash.com/photos/green-leaf-plants-xljtGZ2-P3Y">
     <img src="./authors/Nahil Naseer/dark-leaves-(custom).jpg" title="coming alive" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>NIR HIMI</summary>
+
+- [Unsplash](https://unsplash.com/@nirhimi)
+- [Instagram](https://www.instagram.com/nirhimi1)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/a-lone-tree-in-the-middle-of-a-lake-BmlrZIub73g">
+    <img src="./authors/NIR HIMI/lake-tree-(4K).jpg" title="A lone tree in the middle of a lake" width=600/>
   </a>
 
   </details>
@@ -1079,6 +1146,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Pcstar Pak</summary>
+
+- [Unsplash](https://unsplash.com/@pcstar)
+- [flickr](https://www.flickr.com/photos/pcstar2205/)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/brown-seadock-during-golden-hour-IFuxgt3CwY4">
+    <img src="./authors/Pcstar Pak/seadock-during-golden-hour-(4K).jpg" title="brown seadock during golden hour" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Pok Rie</summary>
 
 - [Pexels](https://www.pexels.com/@pok-rie-33563)
@@ -1110,6 +1194,22 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
   </a>
   <a href="https://www.deviantart.com/prisonercoin/art/Leviathan-889466746">
     <img src="./authors/PrisonerCoin/leviathan-(FHD).jpg" title="Leviathan" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Psychological-Tutor6</summary>
+
+- [Reddit](https://www.reddit.com/user/Psychological-Tutor6/)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.reddit.com/r/Doom/comments/pxkag7/doom_slayer_symbol_wallpaper_4k/">
+    <img src="./authors/Psychological-Tutor6/a-warning-to-the-demons-of-hell-(4K).jpg" title="Doom Slayer Symbol Wallpaper @ 4K" width=600/>
   </a>
 
   </details>
@@ -1153,6 +1253,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Ryunosuke Kikuno</summary>
+
+- [His Website](https://www.ryunosukekikuno.com/)
+- [Unsplash](https://unsplash.com/@ryunosuke_kikuno)
+- [Instagram](https://www.instagram.com/ryunosuke_kikuno)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/a-set-of-stairs-in-the-middle-of-a-forest-NcU12T5V8QY">
+    <img src="./authors/Ryunosuke Kikuno/forest-stairs-(4K).jpg" title="Mizumoto Park, Katsushika City" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>saira ahmed</summary>
 
 - [His Website](https://saira.mypixieset.com/)
@@ -1165,6 +1283,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://unsplash.com/photos/a-view-of-a-pier-next-to-a-window-KygOGONuSMc">
     <img src="./authors/saira ahmed/sunset-from-apartment-(custom).jpg" title="Sunset from apartment in Aptos" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Samantha Cavet</summary>
+
+- [Her Website](https://www.samanthacavet.com/)
+- [Instagram](https://www.instagram.com/samanthacavet/)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.instagram.com/p/CUdjauUoWum/?img_index=4">
+    <img src="./authors/Samantha Cavet/to-the-moon-(FHD).jpg" title="Skyscapes 🪐" width=600/>
   </a>
 
   </details>
@@ -1206,6 +1341,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>skiegraphicstudio</summary>
+
+- [His Website](https://www.skiegraphicstudio.com)
+- [ArtStation](https://www.artstation.com/skiegraphicstudio)
+- [Instagram](https://www.instagram.com/skiegraphicstudio)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.artstation.com/artwork/e0vgwY">
+    <img src="./authors/skiegraphicstudio/bad-dreams-(FHD).jpg" title="Bad Dreams" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>SuicidalMushroom</summary>
 
 - [ArtStation](https://www.deviantart.com/suicidalmushroom)
@@ -1215,6 +1368,27 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://www.deviantart.com/suicidalmushroom/art/Itsukushima-Floating-Torii-Gate-in-Japan-4k-771245627">
     <img src="./authors/SuicidalMushroom/floating-gate-(4K).jpg" title="Itsukushima Floating Torii Gate in Japan 4k" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Takashi Miyazaki</summary>
+
+- [His Website](https://miyatankun.wixsite.com/miyatankun-photograp)
+- [Unsplash](https://unsplash.com/@miyatankun)
+- [Instagram](https://www.instagram.com/miyatankun)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://unsplash.com/photos/a-river-running-through-a-city-with-tall-buildings-CeQ_QstqU7M">
+    <img src="./authors/Takashi Miyazaki/meguro-river-(4K).jpg" title="a river running through a city with tall buildings" width=600/>
+  </a>
+  <a href="https://unsplash.com/photos/S0SjJtn2dHE">
+    <img src="./authors/Takashi Miyazaki/sunset-at-fujisawa-(4K).jpg" title="Download this free HD photo of japan, sunset, red, and orange in Fujisawa, Japan by Takashi Miyazaki (@miyatankun)" width=600/>
   </a>
 
   </details>
@@ -1309,6 +1483,24 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
   </a>
   <a href="https://www.artstation.com/artwork/nYrvkO">
     <img src="./authors/Tyler Smith/pink-temple-in-forest-(4K).jpg" title="Pink Temple in Forest" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>vee terzy</summary>
+
+- [His Website](https://www.veeterzy.com)
+- [Pexels](https://www.pexels.com/@veeterzy)
+- [Instagram](https://www.instagram.com/veeterzy)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.pexels.com/photo/road-between-pine-trees-39811">
+    <img src="./authors/vee terzy/./road-between-pine-trees-(4K).jpg" title="Road Between Pine Trees" width=600/>
   </a>
 
   </details>
