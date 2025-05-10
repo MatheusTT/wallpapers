@@ -174,7 +174,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Andrew Spencer</summary>
 
-- [His Website](https://andrew-spencer.com/)
+- [Website](https://andrew-spencer.com/)
 - [Unsplash](https://unsplash.com/@iam_aspencer)
 - [Instagram](https://www.instagram.com/iam_aspencer)
 - [X](https://x.com/iam_aspencer)
@@ -454,7 +454,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Daniel Leone</summary>
 
-- [His Website](https://danielleone.com/)
+- [Website](https://danielleone.com/)
 - [Unsplash](https://unsplash.com/@danielleone)
 
   <details open>
@@ -488,7 +488,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Dave Herring</summary>
 
-- [His Website](https://dave.online/)
+- [Website](https://dave.online/)
 - [Unsplash](https://unsplash.com/@daveherring)
 
   <details open>
@@ -537,7 +537,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Dominik Zdenković</summary>
 
-- [His Website](https://dominikzdenkovic.com/)
+- [Website](https://dominikzdenkovic.com/)
 - [ArtStation](https://www.artstation.com/dominikzdenkovic)
 - [Linktree](https://linktr.ee/dominikzdenkovic)
 
@@ -792,7 +792,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Johannes Hulsch</summary>
 
-- [His Website](https://johanneshulsch.de/)
+- [Website](https://johanneshulsch.de/)
 - [flickr](https://www.flickr.com/photos/95951531@N05/)
 - [500px](https://500px.com/p/bokehm0n?view=photos)
 - [Instagram](https://www.instagram.com/bokehm0n/)
@@ -863,7 +863,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Kanistra Studio</summary>
 
-- [His Website](https://kanistra.com/)
+- [Website](https://kanistra.com/)
 - [ArtStation](https://www.artstation.com/kanistrastudio)
 - [X](twitter.com/kanistra_studio)
 - [Sketchfab](https://sketchfab.com/kanistra)
@@ -933,7 +933,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>liamwong</summary>
 
-- [His Website](https://www.liamwong.com/)
+- [Website](https://www.liamwong.com/)
 - [Instagram](https://www.instagram.com/liamwong)
 - [X](https://x.com/liamwong)
 
@@ -954,7 +954,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Louis Coyle</summary>
 
-- [His Website](https://louie.co.nz/)
+- [Website](https://louie.co.nz/)
 - [Dribbble](https://dribbble.com/louiscoyle)
 - [CodePen](https://codepen.io/dropside)
 - [X](https://x.com/louis_coyle)
@@ -974,7 +974,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Mark Boss</summary>
 
-- [His Website](https://markboss.me/)
+- [Website](https://markboss.me/)
 - [Unsplash](https://unsplash.com/@vork)
 - [X](https://x.com/markb_boss)
 
@@ -1129,7 +1129,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Paul Pastourmatzis</summary>
 
-- [His Website](https://pueblo-vista.com/)
+- [Website](https://pueblo-vista.com/)
 - [Unsplash](https://unsplash.com/@pueblovista)
 - [Instagram](https://www.instagram.com/pueblo_vista/)
 - [X](https://x.com/pueblovista)
@@ -1219,7 +1219,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Ricardo Gomez Angel</summary>
 
-- [His Website](https://rgaleria.com/)
+- [Website](https://rgaleria.com/)
 - [Unsplash](https://unsplash.com/@rgaleriacom)
 - [Instagram](https://www.instagram.com/ricardogo03/)
 
@@ -1237,7 +1237,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Ronaldo de Oliveira</summary>
 
-- [His Website](https://ronaldorolv.myportfolio.com/)
+- [Website](https://ronaldorolv.myportfolio.com/)
 - [Unsplash](https://unsplash.com/@ronaldordeoliveira)
 - [Instagram](https://www.instagram.com/ronaldordeoliveira)
 
@@ -1255,7 +1255,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Ryunosuke Kikuno</summary>
 
-- [His Website](https://www.ryunosukekikuno.com/)
+- [Website](https://www.ryunosukekikuno.com/)
 - [Unsplash](https://unsplash.com/@ryunosuke_kikuno)
 - [Instagram](https://www.instagram.com/ryunosuke_kikuno)
 
@@ -1273,7 +1273,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>saira ahmed</summary>
 
-- [His Website](https://saira.mypixieset.com/)
+- [Website](https://saira.mypixieset.com/)
 - [Unsplash](https://unsplash.com/@sairaa)
 - [Instagram](https://www.instagram.com/sairaphotography)
 - [X](https://x.com/sairaahmeddd)
@@ -1292,7 +1292,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Samantha Cavet</summary>
 
-- [Her Website](https://www.samanthacavet.com/)
+- [Website](https://www.samanthacavet.com/)
 - [Instagram](https://www.instagram.com/samanthacavet/)
 
   <details open>
@@ -1325,7 +1325,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Sayybils</summary>
 
-- [His Website](https://sayybilsnakirwa.wixsite.com/portofolio)
+- [Website](https://sayybilsnakirwa.wixsite.com/portofolio)
 - [ArtStation](https://www.artstation.com/sayybils)
 - [Instagram](https://www.instagram.com/sayybils)
 
@@ -1343,7 +1343,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>skiegraphicstudio</summary>
 
-- [His Website](https://www.skiegraphicstudio.com)
+- [Website](https://www.skiegraphicstudio.com)
 - [ArtStation](https://www.artstation.com/skiegraphicstudio)
 - [Instagram](https://www.instagram.com/skiegraphicstudio)
 
@@ -1377,7 +1377,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Takashi Miyazaki</summary>
 
-- [His Website](https://miyatankun.wixsite.com/miyatankun-photograp)
+- [Website](https://miyatankun.wixsite.com/miyatankun-photograp)
 - [Unsplash](https://unsplash.com/@miyatankun)
 - [Instagram](https://www.instagram.com/miyatankun)
 
@@ -1415,7 +1415,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>Tim Mossholder</summary>
 
-- [His Website](https://timmossholder.com/)
+- [Website](https://timmossholder.com/)
 - [Unsplash](https://unsplash.com/@timmossholder)
 - [X](https://x.com/timmossholder)
 
@@ -1492,7 +1492,7 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 <details>
 <summary>vee terzy</summary>
 
-- [His Website](https://www.veeterzy.com)
+- [Website](https://www.veeterzy.com)
 - [Pexels](https://www.pexels.com/@veeterzy)
 - [Instagram](https://www.instagram.com/veeterzy)
 
