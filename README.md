@@ -519,6 +519,23 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
 
 <details>
+<summary>Digital Blasphemy</summary>
+
+- [Website](https://digitalblasphemy.com/)
+- [Instagram](https://www.instagram.com/dblasphemy)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://digitalblasphemy.com/sec/serenade/">
+    <img src="./authors/Digital Blasphemy/lunar-eclipse-(FHD).jpg" title="Serenade" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
 <summary>Digital Frontiers</summary>
 
 - [ArtStation](https://digitalfrontiers.artstation.com/)
@@ -1424,6 +1441,25 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
 
   <a href="https://unsplash.com/photos/green-leafed-plant-in-brick-wall-SgPgLrDqPcU">
     <img src="./authors/Tim Mossholder/ivy-wall-(4K).jpg" title="green leafed plant in brick wallpapers" width=600/>
+  </a>
+
+  </details>
+</details>
+
+
+<details>
+<summary>Tony Webster</summary>
+
+- [flickr](https://www.flickr.com/people/diversey)
+
+  <details open>
+  <summary>Wallpapers</summary>
+
+  <a href="https://www.flickr.com/photos/diversey/17875510321/">
+    <img src="./authors/Tony Webster/astoria-megler-bridge-(4K).jpg" title="Astoria-Megler Bridge" width=600/>
+  </a>
+  <a href="https://www.flickr.com/photos/diversey/15187962614/">
+    <img src="./authors/Tony Webster/maul-beach-(QHD).jpg" title="Maui Beach" width=600/>
   </a>
 
   </details>
