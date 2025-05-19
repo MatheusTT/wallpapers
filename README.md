@@ -311,6 +311,12 @@ Most of this wallpapers i have got from [r/wallpapers](https://www.reddit.com/r/
   <a href="https://www.artstation.com/artwork/AqPGYq">
     <img src="./authors/BisBiswas/dreamy-night-(FHD).jpg" title="Dreamy Night" width=600/>
   </a>
+  <a href="https://www.deviantart.com/bisbiswas/art/Verdant-Mountain-Commissioned-892874939">
+    <img src="./authors/BisBiswas/verdant-mountain-(FHD).jpg" title="Verdant Mountain [Commissioned]" width=600/>
+  </a>
+  <a href="https://www.deviantart.com/bisbiswas/art/Dramatic-Night-889009374">
+    <img src="./authors/BisBiswas/dramatic-night-(FHD).jpg" title="Dramatic Night" width=600/>
+  </a>
 
   </details>
 </details>
